@@ -1,0 +1,14 @@
+### project files ###
+temp/
+logs/
+
+### python ### 
+__pycache__/
+*.pyc
+
+### jetbrain pycharm ###
+.idea/
+*.iml
+
+### macOS ###
+.DS_Store
